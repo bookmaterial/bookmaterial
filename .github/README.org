@@ -1,6 +1,6 @@
 * Sitio con material complementario del _libro Estadística Aplicada e Inferencial_
 
-En este repositorio se almacenan los scripts de [[https://devtools.r-lib.org/][R]] de los ejercicios estipulados en el libro *Estadística Aplicada e Inferencial* del Profesor [[https://eljatib.com][Christian Salas-Eljatib]] del [[https://biometriaforestal.uchile.cl][Laboratorio de Biometría y Modelación Forestal]] de la [[https://uchile.cl][Universidad de Chile]].
+En este repositorio se almacenan los scripts de [[https://devtools.r-lib.org/][R]] de los ejercicios estipulados en el libro *Estadística Aplicada e Inferencial* del Profesor [[https://eljatib.com][Christian Salas-Eljatib]] del [[https://biometriaforestal.uchile.cl][Laboratorio de Biometría y Modelación Forestal]] y del [[https://www.postgradofen.uchile.cl/mag%C3%ADster-en-pol%C3%ADticas-p%C3%BAblicas-escuela-de-postgrado-facultad-de-econom%C3%ADa-y-negocios-universidad-de-chile][Magíster en Políticas Públicas] de la [[https://uchile.cl][Universidad de Chile]].
 
 
 Para el correcto uso de los scripts, es necesario tener instalados los paquetes =datana= y =biometrics= en su versión de R. 
