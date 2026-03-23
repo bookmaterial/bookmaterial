@@ -5,7 +5,7 @@ Probando agregar scripts
 
 [[./intconf1.r]]
 
-[[./heteromaple.r]]
+[[./heteromaple.r][heteromaple.r]]
 
 
 
