@@ -1,0 +1,22 @@
+#+title: scripts curso
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/html-theme-readtheorg.setup
+* estadistica
+Probando agregar scripts
+
+[[intconf1.r]]
+
+** ahusamiento
+[[https://github.com/cseljatib/ejerbiomfor/blob/main/ahusa1.r][ahusa2.r]]
+
+[[https://github.com/cseljatib/ejerbiomfor/blob/main/ahusa1.r][ahusa3.r]]
+
+[[https://github.com/cseljatib/ejerbiomfor/blob/main/ahusa1.r][ahusa4.r]]
+
+[[https://github.com/cseljatib/ejerbiomfor/blob/main/ahusa1.r][ahusa5.r]]
+
+[[https://github.com/cseljatib/ejerbiomfor/blob/main/ahusa1.r][ahusa6.r]]
+
+* biometria
+bookmaterial.github.io
+github.com/biometria2/pagina
+https://github.com/cseljatib/ejerbiomfor
