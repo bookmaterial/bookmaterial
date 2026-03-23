@@ -3,7 +3,11 @@
 * estadistica
 Probando agregar scripts
 
-[[intconf1.r]]
+[[./intconf1.r]]
+
+[[./heteromaple.r]]
+
+
 
 ** ahusamiento
 [[https://github.com/cseljatib/ejerbiomfor/blob/main/ahusa1.r][ahusa2.r]]
